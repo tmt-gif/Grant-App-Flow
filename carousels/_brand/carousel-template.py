@@ -119,8 +119,8 @@ S.append(slide(11,N,tip("Feedback","Ask what they wish it did.",
 
 S.append(slide(12,N,'''<div class="tag">The point</div>
 <h1>Nobody at that church did anything wrong.</h1>
-<p>The founder passed. A new pastor stepped up. Four years went by. Nobody owned the update, so it never happened.</p>
-<p>That is how most gaps happen. Not neglect. <span class="teal" style="font-weight:700">Just no one assigned to it.</span></p>'''))
+<p>The founder passed. A new pastor stepped up. Four years went by. Nobody owned the update, so it never happened. That is how most gaps start. Not neglect. <span class="teal" style="font-weight:700">Just no one assigned to it.</span></p>
+<div class="do"><b>Do this</b><span>Name one person to own the leadership binder, and put their name on it this week.</span></div>'''))
 
 S.append(slide(13,N,'''<div class="tag">As leaders</div>
 <h1>We are held to higher standards.</h1>
